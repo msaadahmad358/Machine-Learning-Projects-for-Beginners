@@ -1,0 +1,1 @@
+This repository supports the machine learning projects for beginners.
