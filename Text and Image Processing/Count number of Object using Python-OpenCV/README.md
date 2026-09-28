@@ -1,3 +1,4 @@
+**Count number of Object using Python-OpenCV**
 In this basic project, 4 libraries were imported cv2, matplotlib.pyplot, numpy and os.
 This model is detecting objects in image and count numbers of object.
 

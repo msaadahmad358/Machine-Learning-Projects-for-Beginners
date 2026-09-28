@@ -1,3 +1,4 @@
+**Detecting Spam Emails Using Tensorflow in Python**
 Email spam detection is a machine learning project using tensorflow and complete it in multiple steps.
 
 Step 1 - Import required libraries
